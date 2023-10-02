@@ -1,1 +1,1 @@
-# Cinema-Management-Application
+# Theatre-Management-Application
